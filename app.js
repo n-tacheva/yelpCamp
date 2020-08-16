@@ -6,10 +6,10 @@ const mongoose = require("mongoose")
 const passport = require("passport")
 const LocalStrategy = require("passport-local")
 
-const Campground = require("./models/campgrounds")
-const Comment = require("./models/comment")
+// const Campground = require("./models/campgrounds")
+// const Comment = require("./models/comment")
 const User = require("./models/user")
-const seedDB = require("./seeds")
+// const seedDB = require("./seeds")
 
 const campgroundRoutes = require("./routes/campgrounds")
 const commentRoutes = require("./routes/comments")
