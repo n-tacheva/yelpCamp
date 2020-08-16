@@ -1,0 +1,11 @@
+.img-thumbnail img{
+    width: 100%;
+    border-radius: 0;
+}
+.img-thumbnail{
+    padding: 0;
+}
+
+.campground-description{
+    padding: 10px;
+}
